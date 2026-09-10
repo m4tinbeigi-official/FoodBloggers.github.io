@@ -8,7 +8,7 @@
     "engagement": "3.8%",
     "role": "متخصص رستوران‌گردی و تیست",
     "verified": true,
-    "avatar": "avatars/mr.taster.svg"
+    "avatar": "avatars/mr.taster.jpg"
   },
   {
     "name": "میلاد کلانتری (کامیران)",
@@ -19,7 +19,7 @@
     "engagement": "4.2%",
     "role": "متخصص رستوران‌گردی و تیست",
     "verified": true,
-    "avatar": "avatars/milad_kooh.svg"
+    "avatar": "avatars/milad_kooh.jpg"
   },
   {
     "name": "پگاه (آشپزی با پگاه)",
@@ -30,7 +30,7 @@
     "engagement": "5.1%",
     "role": "متخصص آشپزی و رسپی",
     "verified": true,
-    "avatar": "avatars/cook.mag.svg"
+    "avatar": "avatars/cook.mag.jpg"
   },
   {
     "name": "مهرداد شف (Mehrdad Chef)",
@@ -41,7 +41,7 @@
     "engagement": "4.7%",
     "role": "متخصص آشپزی و رسپی",
     "verified": true,
-    "avatar": "avatars/mehrdad_chef.svg"
+    "avatar": "avatars/mehrdad_chef.jpg"
   },
   {
     "name": "امیر جابری (Amir Jaaberi)",
@@ -52,7 +52,7 @@
     "engagement": "3.5%",
     "role": "متخصص رستوران‌گردی و تیست",
     "verified": true,
-    "avatar": "avatars/amir_food_reviewer.svg"
+    "avatar": "avatars/amir_food_reviewer.jpg"
   },
   {
     "name": "سام کافه و دنیای باریستا",
@@ -63,7 +63,7 @@
     "engagement": "6.2%",
     "role": "متخصص کافه و قهوه",
     "verified": true,
-    "avatar": "avatars/baristalife_ir.svg"
+    "avatar": "avatars/baristalife_ir.jpg"
   },
   {
     "name": "شف رنجبر (Ranjbar Chef)",
@@ -74,7 +74,7 @@
     "engagement": "4.9%",
     "role": "متخصص آشپزی و رسپی",
     "verified": true,
-    "avatar": "avatars/chef_ranjbar.svg"
+    "avatar": "avatars/chef_ranjbar.jpg"
   },
   {
     "name": "مزه گردی با علی",
@@ -85,7 +85,7 @@
     "engagement": "5.5%",
     "role": "متخصص فست‌فود و غذای خیابانی",
     "verified": true,
-    "avatar": "avatars/ali_mazegardi.svg"
+    "avatar": "avatars/ali_mazegardi.jpg"
   },
   {
     "name": "شیرینی‌پزی سارا",
@@ -96,7 +96,7 @@
     "engagement": "6.1%",
     "role": "متخصص شیرینی‌پزی و قنادی",
     "verified": true,
-    "avatar": "avatars/sara_pastry.svg"
+    "avatar": "avatars/sara_pastry.jpg"
   },
   {
     "name": "دنیای نان دست‌ساز",
@@ -107,7 +107,7 @@
     "engagement": "7.0%",
     "role": "متخصص نان و بیکری",
     "verified": true,
-    "avatar": "avatars/sourdough_iran.svg"
+    "avatar": "avatars/sourdough_iran.jpg"
   },
   {
     "name": "آرش شف",
@@ -118,7 +118,7 @@
     "engagement": "5.2%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": true,
-    "avatar": "avatars/food_1_آرش_شف.svg"
+    "avatar": "avatars/food_1_آرش_شف.jpg"
   },
   {
     "name": "مائده رستمی",
@@ -129,7 +129,7 @@
     "engagement": "7.3%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": false,
-    "avatar": "avatars/food_2_مائده_رستمی.svg"
+    "avatar": "avatars/food_2_مائده_رستمی.jpg"
   },
   {
     "name": "کاوه کافه‌گرد",
@@ -140,7 +140,7 @@
     "engagement": "4.9%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": false,
-    "avatar": "avatars/food_3_کاوه_کافهگرد.svg"
+    "avatar": "avatars/food_3_کاوه_کافهگرد.jpg"
   },
   {
     "name": "نگین کوک",
@@ -151,7 +151,7 @@
     "engagement": "4.7%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": false,
-    "avatar": "avatars/food_4_نگین_کوک.svg"
+    "avatar": "avatars/food_4_نگین_کوک.jpg"
   },
   {
     "name": "پرهام فودی",
@@ -162,7 +162,7 @@
     "engagement": "6.2%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": true,
-    "avatar": "avatars/food_5_پرهام_فودی.svg"
+    "avatar": "avatars/food_5_پرهام_فودی.jpg"
   },
   {
     "name": "بهار شیرینی",
@@ -173,7 +173,7 @@
     "engagement": "3.8%",
     "role": "فعال حوزه نان و بیکری",
     "verified": false,
-    "avatar": "avatars/food_6_بهار_شیرینی.svg"
+    "avatar": "avatars/food_6_بهار_شیرینی.jpg"
   },
   {
     "name": "حسین تیستر",
@@ -184,7 +184,7 @@
     "engagement": "7.7%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": false,
-    "avatar": "avatars/food_7_حسین_تیستر.svg"
+    "avatar": "avatars/food_7_حسین_تیستر.jpg"
   },
   {
     "name": "رویا شف",
@@ -195,7 +195,7 @@
     "engagement": "7.6%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": false,
-    "avatar": "avatars/food_8_رویا_شف.svg"
+    "avatar": "avatars/food_8_رویا_شف.jpg"
   },
   {
     "name": "سامان برگر",
@@ -206,7 +206,7 @@
     "engagement": "4.8%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": true,
-    "avatar": "avatars/food_9_سامان_برگر.svg"
+    "avatar": "avatars/food_9_سامان_برگر.jpg"
   },
   {
     "name": "الناز باریستا",
@@ -217,7 +217,7 @@
     "engagement": "7.5%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": false,
-    "avatar": "avatars/food_10_الناز_باریستا.svg"
+    "avatar": "avatars/food_10_الناز_باریستا.jpg"
   },
   {
     "name": "فرزاد تیست",
@@ -228,7 +228,7 @@
     "engagement": "4.0%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": false,
-    "avatar": "avatars/food_11_فرزاد_تیست.svg"
+    "avatar": "avatars/food_11_فرزاد_تیست.jpg"
   },
   {
     "name": "سوگند کیک",
@@ -239,7 +239,7 @@
     "engagement": "7.4%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": false,
-    "avatar": "avatars/food_12_سوگند_کیک.svg"
+    "avatar": "avatars/food_12_سوگند_کیک.jpg"
   },
   {
     "name": "بابک کباب",
@@ -250,7 +250,7 @@
     "engagement": "7.2%",
     "role": "فعال حوزه نان و بیکری",
     "verified": true,
-    "avatar": "avatars/food_13_بابک_کباب.svg"
+    "avatar": "avatars/food_13_بابک_کباب.jpg"
   },
   {
     "name": "یاسمن فود",
@@ -261,7 +261,7 @@
     "engagement": "5.3%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": false,
-    "avatar": "avatars/food_14_یاسمن_فود.svg"
+    "avatar": "avatars/food_14_یاسمن_فود.jpg"
   },
   {
     "name": "کیان بیکری",
@@ -272,7 +272,7 @@
     "engagement": "7.5%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": false,
-    "avatar": "avatars/food_15_کیان_بیکری.svg"
+    "avatar": "avatars/food_15_کیان_بیکری.jpg"
   },
   {
     "name": "ندا تیستر",
@@ -283,7 +283,7 @@
     "engagement": "5.7%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": false,
-    "avatar": "avatars/food_16_ندا_تیستر.svg"
+    "avatar": "avatars/food_16_ندا_تیستر.jpg"
   },
   {
     "name": "امید فودلاور",
@@ -294,7 +294,7 @@
     "engagement": "8.0%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": true,
-    "avatar": "avatars/food_17_امید_فودلاور.svg"
+    "avatar": "avatars/food_17_امید_فودلاور.jpg"
   },
   {
     "name": "ستاره کوکینگ",
@@ -305,7 +305,7 @@
     "engagement": "4.7%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": false,
-    "avatar": "avatars/food_18_ستاره_کوکینگ.svg"
+    "avatar": "avatars/food_18_ستاره_کوکینگ.jpg"
   },
   {
     "name": "دانیال شف",
@@ -316,7 +316,7 @@
     "engagement": "6.6%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": false,
-    "avatar": "avatars/food_19_دانیال_شف.svg"
+    "avatar": "avatars/food_19_دانیال_شف.jpg"
   },
   {
     "name": "هستی دسر",
@@ -327,7 +327,7 @@
     "engagement": "6.8%",
     "role": "فعال حوزه نان و بیکری",
     "verified": false,
-    "avatar": "avatars/food_20_هستی_دسر.svg"
+    "avatar": "avatars/food_20_هستی_دسر.jpg"
   },
   {
     "name": "محسن آشپزباشی",
@@ -338,7 +338,7 @@
     "engagement": "7.1%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": true,
-    "avatar": "avatars/food_21_محسن_آشپزباشی.svg"
+    "avatar": "avatars/food_21_محسن_آشپزباشی.jpg"
   },
   {
     "name": "سحر مزه",
@@ -349,7 +349,7 @@
     "engagement": "7.5%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": false,
-    "avatar": "avatars/food_22_سحر_مزه.svg"
+    "avatar": "avatars/food_22_سحر_مزه.jpg"
   },
   {
     "name": "پویا رستوران",
@@ -360,7 +360,7 @@
     "engagement": "4.3%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": false,
-    "avatar": "avatars/food_23_پویا_رستوران.svg"
+    "avatar": "avatars/food_23_پویا_رستوران.jpg"
   },
   {
     "name": "فاطمه قنادی",
@@ -371,7 +371,7 @@
     "engagement": "6.3%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": false,
-    "avatar": "avatars/food_24_فاطمه_قنادی.svg"
+    "avatar": "avatars/food_24_فاطمه_قنادی.jpg"
   },
   {
     "name": "نوید قهوه",
@@ -382,7 +382,7 @@
     "engagement": "5.5%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": true,
-    "avatar": "avatars/food_25_نوید_قهوه.svg"
+    "avatar": "avatars/food_25_نوید_قهوه.jpg"
   },
   {
     "name": "سمیرا فود",
@@ -393,7 +393,7 @@
     "engagement": "8.4%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": false,
-    "avatar": "avatars/food_26_سمیرا_فود.svg"
+    "avatar": "avatars/food_26_سمیرا_فود.jpg"
   },
   {
     "name": "شاهین برگر",
@@ -404,7 +404,7 @@
     "engagement": "3.2%",
     "role": "فعال حوزه نان و بیکری",
     "verified": false,
-    "avatar": "avatars/food_27_شاهین_برگر.svg"
+    "avatar": "avatars/food_27_شاهین_برگر.jpg"
   },
   {
     "name": "تینا کافه",
@@ -415,7 +415,7 @@
     "engagement": "3.3%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": false,
-    "avatar": "avatars/food_28_تینا_کافه.svg"
+    "avatar": "avatars/food_28_تینا_کافه.jpg"
   },
   {
     "name": "محمدرضا شف",
@@ -426,7 +426,7 @@
     "engagement": "5.2%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": true,
-    "avatar": "avatars/food_29_محمدرضا_شف.svg"
+    "avatar": "avatars/food_29_محمدرضا_شف.jpg"
   },
   {
     "name": "شیما رسپی",
@@ -437,7 +437,7 @@
     "engagement": "8.2%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": false,
-    "avatar": "avatars/food_30_شیما_رسپی.svg"
+    "avatar": "avatars/food_30_شیما_رسپی.jpg"
   },
   {
     "name": "آرمین استریت‌فود",
@@ -448,7 +448,7 @@
     "engagement": "5.5%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": false,
-    "avatar": "avatars/food_31_آرمین_استریتفود.svg"
+    "avatar": "avatars/food_31_آرمین_استریتفود.jpg"
   },
   {
     "name": "الهام سالاد",
@@ -459,7 +459,7 @@
     "engagement": "6.3%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": false,
-    "avatar": "avatars/food_32_الهام_سالاد.svg"
+    "avatar": "avatars/food_32_الهام_سالاد.jpg"
   },
   {
     "name": "سینا تیست",
@@ -470,7 +470,7 @@
     "engagement": "7.6%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": true,
-    "avatar": "avatars/food_33_سینا_تیست.svg"
+    "avatar": "avatars/food_33_سینا_تیست.jpg"
   },
   {
     "name": "فرشته کوک",
@@ -481,7 +481,7 @@
     "engagement": "4.1%",
     "role": "فعال حوزه نان و بیکری",
     "verified": false,
-    "avatar": "avatars/food_34_فرشته_کوک.svg"
+    "avatar": "avatars/food_34_فرشته_کوک.jpg"
   },
   {
     "name": "پیمان گریل",
@@ -492,7 +492,7 @@
     "engagement": "6.4%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": false,
-    "avatar": "avatars/food_35_پیمان_گریل.svg"
+    "avatar": "avatars/food_35_پیمان_گریل.jpg"
   },
   {
     "name": "مهسا باریستا",
@@ -503,7 +503,7 @@
     "engagement": "7.1%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": false,
-    "avatar": "avatars/food_36_مهسا_باریستا.svg"
+    "avatar": "avatars/food_36_مهسا_باریستا.jpg"
   },
   {
     "name": "کیومرث فودی",
@@ -514,7 +514,7 @@
     "engagement": "7.2%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": true,
-    "avatar": "avatars/food_37_کیومرث_فودی.svg"
+    "avatar": "avatars/food_37_کیومرث_فودی.jpg"
   },
   {
     "name": "مونا شیرینی",
@@ -525,7 +525,7 @@
     "engagement": "6.2%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": false,
-    "avatar": "avatars/food_38_مونا_شیرینی.svg"
+    "avatar": "avatars/food_38_مونا_شیرینی.jpg"
   },
   {
     "name": "شهرام شکمو",
@@ -536,7 +536,7 @@
     "engagement": "5.8%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": false,
-    "avatar": "avatars/food_39_شهرام_شکمو.svg"
+    "avatar": "avatars/food_39_شهرام_شکمو.jpg"
   },
   {
     "name": "زهرا سرآشپز",
@@ -547,7 +547,7 @@
     "engagement": "7.1%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": false,
-    "avatar": "avatars/food_40_زهرا_سرآشپز.svg"
+    "avatar": "avatars/food_40_زهرا_سرآشپز.jpg"
   },
   {
     "name": "احسان مزه‌سنج",
@@ -558,7 +558,7 @@
     "engagement": "8.4%",
     "role": "فعال حوزه نان و بیکری",
     "verified": true,
-    "avatar": "avatars/food_41_احسان_مزهسنج.svg"
+    "avatar": "avatars/food_41_احسان_مزهسنج.jpg"
   },
   {
     "name": "لاله دسر",
@@ -569,7 +569,7 @@
     "engagement": "4.7%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": false,
-    "avatar": "avatars/food_42_لاله_دسر.svg"
+    "avatar": "avatars/food_42_لاله_دسر.jpg"
   },
   {
     "name": "کامران باربیکیو",
@@ -580,7 +580,7 @@
     "engagement": "5.4%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": false,
-    "avatar": "avatars/food_43_کامران_باربیکیو.svg"
+    "avatar": "avatars/food_43_کامران_باربیکیو.jpg"
   },
   {
     "name": "نیلوفر نان",
@@ -591,7 +591,7 @@
     "engagement": "3.8%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": false,
-    "avatar": "avatars/food_44_نیلوفر_نان.svg"
+    "avatar": "avatars/food_44_نیلوفر_نان.jpg"
   },
   {
     "name": "علیرضا فوداستایل",
@@ -602,7 +602,7 @@
     "engagement": "3.3%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": true,
-    "avatar": "avatars/food_45_علیرضا_فوداستایل.svg"
+    "avatar": "avatars/food_45_علیرضا_فوداستایل.jpg"
   },
   {
     "name": "ملیحه کیک",
@@ -613,7 +613,7 @@
     "engagement": "8.0%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": false,
-    "avatar": "avatars/food_46_ملیحه_کیک.svg"
+    "avatar": "avatars/food_46_ملیحه_کیک.jpg"
   },
   {
     "name": "سروش پیتزا",
@@ -624,7 +624,7 @@
     "engagement": "7.5%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": false,
-    "avatar": "avatars/food_47_سروش_پیتزا.svg"
+    "avatar": "avatars/food_47_سروش_پیتزا.jpg"
   },
   {
     "name": "مهرنوش شف",
@@ -635,7 +635,7 @@
     "engagement": "7.9%",
     "role": "فعال حوزه نان و بیکری",
     "verified": false,
-    "avatar": "avatars/food_48_مهرنوش_شف.svg"
+    "avatar": "avatars/food_48_مهرنوش_شف.jpg"
   },
   {
     "name": "ارسلان کافی",
@@ -646,7 +646,7 @@
     "engagement": "5.1%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": true,
-    "avatar": "avatars/food_49_ارسلان_کافی.svg"
+    "avatar": "avatars/food_49_ارسلان_کافی.jpg"
   },
   {
     "name": "غزاله هوم‌پاستا",
@@ -657,7 +657,7 @@
     "engagement": "6.0%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": false,
-    "avatar": "avatars/food_50_غزاله_هومپاستا.svg"
+    "avatar": "avatars/food_50_غزاله_هومپاستا.jpg"
   },
   {
     "name": "سعید اسموک",
@@ -668,7 +668,7 @@
     "engagement": "8.5%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": false,
-    "avatar": "avatars/food_51_سعید_اسموک.svg"
+    "avatar": "avatars/food_51_سعید_اسموک.jpg"
   },
   {
     "name": "پریا فینگر",
@@ -679,7 +679,7 @@
     "engagement": "4.9%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": false,
-    "avatar": "avatars/food_52_پریا_فینگر.svg"
+    "avatar": "avatars/food_52_پریا_فینگر.jpg"
   },
   {
     "name": "بیژن سنتی",
@@ -690,7 +690,7 @@
     "engagement": "5.4%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": true,
-    "avatar": "avatars/food_53_بیژن_سنتی.svg"
+    "avatar": "avatars/food_53_بیژن_سنتی.jpg"
   },
   {
     "name": "آناهیتا سالادبار",
@@ -701,7 +701,7 @@
     "engagement": "6.1%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": false,
-    "avatar": "avatars/food_54_آناهیتا_سالادبار.svg"
+    "avatar": "avatars/food_54_آناهیتا_سالادبار.jpg"
   },
   {
     "name": "فرهاد تیست",
@@ -712,7 +712,7 @@
     "engagement": "3.2%",
     "role": "فعال حوزه نان و بیکری",
     "verified": false,
-    "avatar": "avatars/food_55_فرهاد_تیست.svg"
+    "avatar": "avatars/food_55_فرهاد_تیست.jpg"
   },
   {
     "name": "بهاره بیکری",
@@ -723,7 +723,7 @@
     "engagement": "5.5%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": false,
-    "avatar": "avatars/food_56_بهاره_بیکری.svg"
+    "avatar": "avatars/food_56_بهاره_بیکری.jpg"
   },
   {
     "name": "مازیار شف",
@@ -734,7 +734,7 @@
     "engagement": "7.4%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": true,
-    "avatar": "avatars/food_57_مازیار_شف.svg"
+    "avatar": "avatars/food_57_مازیار_شف.jpg"
   },
   {
     "name": "طناز شیرینی",
@@ -745,7 +745,7 @@
     "engagement": "6.4%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": false,
-    "avatar": "avatars/food_58_طناز_شیرینی.svg"
+    "avatar": "avatars/food_58_طناز_شیرینی.jpg"
   },
   {
     "name": "همایون فود",
@@ -756,7 +756,7 @@
     "engagement": "7.3%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": false,
-    "avatar": "avatars/food_59_همایون_فود.svg"
+    "avatar": "avatars/food_59_همایون_فود.jpg"
   },
   {
     "name": "رکسانا کافه‌تایم",
@@ -767,7 +767,7 @@
     "engagement": "8.4%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": false,
-    "avatar": "avatars/food_60_رکسانا_کافهتایم.svg"
+    "avatar": "avatars/food_60_رکسانا_کافهتایم.jpg"
   },
   {
     "name": "حمیدرضا کبابچی",
@@ -778,7 +778,7 @@
     "engagement": "3.7%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": true,
-    "avatar": "avatars/food_61_حمیدرضا_کبابچی.svg"
+    "avatar": "avatars/food_61_حمیدرضا_کبابچی.jpg"
   },
   {
     "name": "شبنم مزه",
@@ -789,7 +789,7 @@
     "engagement": "8.5%",
     "role": "فعال حوزه نان و بیکری",
     "verified": false,
-    "avatar": "avatars/food_62_شبنم_مزه.svg"
+    "avatar": "avatars/food_62_شبنم_مزه.jpg"
   },
   {
     "name": "مسعود استیک",
@@ -800,7 +800,7 @@
     "engagement": "8.1%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": false,
-    "avatar": "avatars/food_63_مسعود_استیک.svg"
+    "avatar": "avatars/food_63_مسعود_استیک.jpg"
   },
   {
     "name": "فائزه کوکینگ",
@@ -811,7 +811,7 @@
     "engagement": "6.5%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": false,
-    "avatar": "avatars/food_64_فائزه_کوکینگ.svg"
+    "avatar": "avatars/food_64_فائزه_کوکینگ.jpg"
   },
   {
     "name": "شایان فودبلاگ",
@@ -822,7 +822,7 @@
     "engagement": "7.5%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": true,
-    "avatar": "avatars/food_65_شایان_فودبلاگ.svg"
+    "avatar": "avatars/food_65_شایان_فودبلاگ.jpg"
   },
   {
     "name": "کتایون قنادی",
@@ -833,7 +833,7 @@
     "engagement": "7.0%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": false,
-    "avatar": "avatars/food_66_کتایون_قنادی.svg"
+    "avatar": "avatars/food_66_کتایون_قنادی.jpg"
   },
   {
     "name": "وحید رستورانچی",
@@ -844,7 +844,7 @@
     "engagement": "4.1%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": false,
-    "avatar": "avatars/food_67_وحید_رستورانچی.svg"
+    "avatar": "avatars/food_67_وحید_رستورانچی.jpg"
   },
   {
     "name": "لیلا هوم‌پز",
@@ -855,7 +855,7 @@
     "engagement": "5.7%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": false,
-    "avatar": "avatars/food_68_لیلا_هومپز.svg"
+    "avatar": "avatars/food_68_لیلا_هومپز.jpg"
   },
   {
     "name": "امیرحسین گریل",
@@ -866,7 +866,7 @@
     "engagement": "3.9%",
     "role": "فعال حوزه نان و بیکری",
     "verified": true,
-    "avatar": "avatars/food_69_امیرحسین_گریل.svg"
+    "avatar": "avatars/food_69_امیرحسین_گریل.jpg"
   },
   {
     "name": "هانیه دسربار",
@@ -877,7 +877,7 @@
     "engagement": "7.6%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": false,
-    "avatar": "avatars/food_70_هانیه_دسربار.svg"
+    "avatar": "avatars/food_70_هانیه_دسربار.jpg"
   },
   {
     "name": "مهدی فودگردی",
@@ -888,7 +888,7 @@
     "engagement": "5.3%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": false,
-    "avatar": "avatars/food_71_مهدی_فودگردی.svg"
+    "avatar": "avatars/food_71_مهدی_فودگردی.jpg"
   },
   {
     "name": "پریناز بیکر",
@@ -899,7 +899,7 @@
     "engagement": "7.4%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": false,
-    "avatar": "avatars/food_72_پریناز_بیکر.svg"
+    "avatar": "avatars/food_72_پریناز_بیکر.jpg"
   },
   {
     "name": "بهنام شف",
@@ -910,7 +910,7 @@
     "engagement": "5.4%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": true,
-    "avatar": "avatars/food_73_بهنام_شف.svg"
+    "avatar": "avatars/food_73_بهنام_شف.jpg"
   },
   {
     "name": "افسانه شیرینی",
@@ -921,7 +921,7 @@
     "engagement": "6.5%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": false,
-    "avatar": "avatars/food_74_افسانه_شیرینی.svg"
+    "avatar": "avatars/food_74_افسانه_شیرینی.jpg"
   },
   {
     "name": "سام فودی",
@@ -932,7 +932,7 @@
     "engagement": "8.0%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": false,
-    "avatar": "avatars/food_75_سام_فودی.svg"
+    "avatar": "avatars/food_75_سام_فودی.jpg"
   },
   {
     "name": "صبا کافه‌گرد",
@@ -943,7 +943,7 @@
     "engagement": "3.9%",
     "role": "فعال حوزه نان و بیکری",
     "verified": false,
-    "avatar": "avatars/food_76_صبا_کافهگرد.svg"
+    "avatar": "avatars/food_76_صبا_کافهگرد.jpg"
   },
   {
     "name": "پدرام سوپریم",
@@ -954,7 +954,7 @@
     "engagement": "4.0%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": true,
-    "avatar": "avatars/food_77_پدرام_سوپریم.svg"
+    "avatar": "avatars/food_77_پدرام_سوپریم.jpg"
   },
   {
     "name": "نسیم ناتس",
@@ -965,7 +965,7 @@
     "engagement": "4.9%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": false,
-    "avatar": "avatars/food_78_نسیم_ناتس.svg"
+    "avatar": "avatars/food_78_نسیم_ناتس.jpg"
   },
   {
     "name": "کیوان استریت",
@@ -976,7 +976,7 @@
     "engagement": "5.7%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": false,
-    "avatar": "avatars/food_79_کیوان_استریت.svg"
+    "avatar": "avatars/food_79_کیوان_استریت.jpg"
   },
   {
     "name": "فرناز ماکارون",
@@ -987,7 +987,7 @@
     "engagement": "4.5%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": false,
-    "avatar": "avatars/food_80_فرناز_ماکارون.svg"
+    "avatar": "avatars/food_80_فرناز_ماکارون.jpg"
   },
   {
     "name": "مصطفی کباب",
@@ -998,7 +998,7 @@
     "engagement": "4.5%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": true,
-    "avatar": "avatars/food_81_مصطفی_کباب.svg"
+    "avatar": "avatars/food_81_مصطفی_کباب.jpg"
   },
   {
     "name": "عسل اسموتی",
@@ -1009,7 +1009,7 @@
     "engagement": "7.8%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": false,
-    "avatar": "avatars/food_82_عسل_اسموتی.svg"
+    "avatar": "avatars/food_82_عسل_اسموتی.jpg"
   },
   {
     "name": "یاشار فودمن",
@@ -1020,7 +1020,7 @@
     "engagement": "4.3%",
     "role": "فعال حوزه نان و بیکری",
     "verified": false,
-    "avatar": "avatars/food_83_یاشار_فودمن.svg"
+    "avatar": "avatars/food_83_یاشار_فودمن.jpg"
   },
   {
     "name": "سپیده ویگن",
@@ -1031,7 +1031,7 @@
     "engagement": "3.5%",
     "role": "فعال حوزه تغذیه سالم و ارگانیک",
     "verified": false,
-    "avatar": "avatars/food_84_سپیده_ویگن.svg"
+    "avatar": "avatars/food_84_سپیده_ویگن.jpg"
   },
   {
     "name": "سیاوش رستوران",
@@ -1042,7 +1042,7 @@
     "engagement": "5.3%",
     "role": "فعال حوزه آشپزی و رسپی",
     "verified": true,
-    "avatar": "avatars/food_85_سیاوش_رستوران.svg"
+    "avatar": "avatars/food_85_سیاوش_رستوران.jpg"
   },
   {
     "name": "مهتا شف",
@@ -1053,7 +1053,7 @@
     "engagement": "4.0%",
     "role": "فعال حوزه رستوران‌گردی و تیست",
     "verified": false,
-    "avatar": "avatars/food_86_مهتا_شف.svg"
+    "avatar": "avatars/food_86_مهتا_شف.jpg"
   },
   {
     "name": "بردیا تیست",
@@ -1064,7 +1064,7 @@
     "engagement": "5.5%",
     "role": "فعال حوزه کافه و قهوه",
     "verified": false,
-    "avatar": "avatars/food_87_بردیا_تیست.svg"
+    "avatar": "avatars/food_87_بردیا_تیست.jpg"
   },
   {
     "name": "روژین قنادی",
@@ -1075,7 +1075,7 @@
     "engagement": "8.4%",
     "role": "فعال حوزه شیرینی‌پزی و قنادی",
     "verified": false,
-    "avatar": "avatars/food_88_روژین_قنادی.svg"
+    "avatar": "avatars/food_88_روژین_قنادی.jpg"
   },
   {
     "name": "داریوش برگر",
@@ -1086,7 +1086,7 @@
     "engagement": "3.2%",
     "role": "فعال حوزه فست‌فود و غذای خیابانی",
     "verified": true,
-    "avatar": "avatars/food_89_داریوش_برگر.svg"
+    "avatar": "avatars/food_89_داریوش_برگر.jpg"
   },
   {
     "name": "سیمین نانوا",
@@ -1097,6 +1097,6 @@
     "engagement": "3.4%",
     "role": "فعال حوزه نان و بیکری",
     "verified": false,
-    "avatar": "avatars/food_90_سیمین_نانوا.svg"
+    "avatar": "avatars/food_90_سیمین_نانوا.jpg"
   }
 ]
