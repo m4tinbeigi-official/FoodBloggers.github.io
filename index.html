@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>رادار فودبلاگرها، کافه‌گردها و شف‌های ایران | FoodBloggers IR</title>
+  <meta name="description" content="دایرکتوری جامع معرفی برترین فودبلاگرها، تیسترهای غذا، سرآشپزها، باریستاها و منتقدان رستوران در وب فارسی">
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <!-- Vazirmatn Font -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css">
+
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Vazirmatn', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    body {
+      font-family: 'Vazirmatn', sans-serif;
+      background-color: #060913;
+      color: #f1f5f9;
+      margin: 0;
+      padding: 0;
+    }
+    .glass-nav {
+      background: rgba(10, 15, 29, 0.85);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .glass-box {
+      background: rgba(15, 23, 42, 0.7);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+    }
+    .blogger-card {
+      background: #0f172a;
+      border: 1px solid #1e293b;
+      transition: all 0.25s ease-in-out;
+    }
+    .blogger-card:hover {
+      border-color: #38bdf8;
+      transform: translateY(-3px);
+      box-shadow: 0 10px 25px -5px rgba(56, 189, 248, 0.15);
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col antialiased selection:bg-sky-500 selection:text-white">
+
+  <!-- Header -->
+  <header class="sticky top-0 z-50 glass-nav">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 h-20 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-11 h-11 rounded-xl bg-gradient-to-tr from-amber-500 to-orange-500 flex items-center justify-center text-slate-950 font-black text-xl shadow-lg">
+          <i class="fa-solid fa-layer-group"></i>
+        </div>
+        <div>
+          <h1 class="text-xl font-black bg-gradient-to-r from-amber-500 to-orange-500 bg-clip-text text-transparent">
+            FoodBloggers IR
+          </h1>
+          <p class="text-xs text-slate-400">رصد برخط اکوسیستم غذا و رستوران‌گردی</p>
+        </div>
+      </div>
+      
+      <div class="flex items-center gap-3">
+        <a href="https://irblogger.github.io/" target="_blank" class="px-4 py-2 rounded-lg bg-sky-500 hover:bg-sky-400 text-slate-950 font-bold text-xs sm:text-sm shadow-md transition flex items-center gap-2">
+          <i class="fa-solid fa-house text-base"></i>
+          <span>هاب مرکزی IRBlogger</span>
+        </a>
+        <a href="https://github.com/m4tinbeigi-official/FoodBloggers.github.io" target="_blank" class="p-2.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 transition flex items-center justify-center border border-slate-700">
+          <i class="fa-brands fa-github text-base"></i>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="py-10 px-4 max-w-7xl mx-auto w-full text-center">
+    <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-slate-900/90 border border-slate-800 text-sky-400 text-xs font-semibold mb-4">
+      <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+      دایرکتوری رسمی و آزاد
+    </div>
+    <h2 class="text-2xl sm:text-4xl font-black text-white mb-3">
+      دایرکتوری جامع معرفی برترین فودبلاگرها، تیسترهای غذا، سرآشپزها، باریستاها و منتقدان رستوران در وب فارسی
+    </h2>
+    <p class="text-slate-400 text-xs sm:text-sm max-w-2xl mx-auto mb-8 leading-relaxed">
+      تحلیل آماری، بررسی تخصص‌ها، سوابق و معرفی فعالان و چهره‌های برجسته این حوزه در ایران.
+    </p>
+
+    <!-- Search and Filter Bar -->
+    <div class="max-w-3xl mx-auto glass-box rounded-2xl p-3 sm:p-4 mb-8 shadow-xl">
+      <div class="flex flex-col sm:flex-row gap-3">
+        <div class="relative flex-1">
+          <i class="fa-solid fa-magnifying-glass absolute right-4 top-1/2 -translate-y-1/2 text-slate-500"></i>
+          <input type="text" id="searchInput" placeholder="جستجوی نام، آیدی، تخصص یا بیوگرافی..." class="w-full bg-slate-900/90 border border-slate-700/80 rounded-xl pr-11 pl-4 py-2.5 text-sm text-slate-200 focus:outline-none focus:border-sky-500 transition">
+        </div>
+      </div>
+
+      <!-- Categories -->
+      <div class="flex flex-wrap items-center justify-center gap-2 mt-4 pt-3 border-t border-slate-800" id="categoryFilters">
+        <button class="cat-filter active px-3 py-1 rounded-lg text-xs font-medium bg-sky-500 text-slate-950 transition" data-cat="all">همه دسته‌ها</button>
+        <button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="آشپزی و رسپی">آشپزی و رسپی</button>
+<button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="رستوران‌گردی و تیست">رستوران‌گردی و تیست</button>
+<button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="کافه و قهوه">کافه و قهوه</button>
+<button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="شیرینی‌پزی و قنادی">شیرینی‌پزی و قنادی</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Bloggers Grid -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 pb-20 flex-1 w-full">
+    <div class="flex items-center justify-between mb-6">
+      <h3 class="text-lg font-bold text-white flex items-center gap-2">
+        <i class="fa-solid fa-users text-sky-400"></i>
+        <span>لیست تولیدکنندگان محتوا و متخصصین</span>
+      </h3>
+      <span class="text-xs text-slate-400 bg-slate-800/80 px-3 py-1 rounded-lg border border-slate-700/50" id="countBadge">6 نفر ثبت شده</span>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="bloggersGrid">
+      
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="رستوران‌گردی و تیست">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=mr_taster" alt="مستر تیستر (حمید سپیدنام)" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=mr.taster'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">مستر تیستر (حمید سپیدنام)</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">تیستر بین‌المللی غذا و رستوران‌گردی</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">رستوران‌گردی و تیست</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            قدیمی‌ترین و شناخته‌شده‌ترین تیستر غذای ایران، معرفی رستوران‌ها در ایران و جهان.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>2.1M</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>3.8%</span>
+          </div>
+          <a href="https://instagram.com/mr.taster" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@mr.taster</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="رستوران‌گردی و تیست">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=milad_kooh" alt="میلاد کلانتری (کامیران)" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=milad_kooh'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">میلاد کلانتری (کامیران)</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">معرفی رستوران و غذای خیابانی</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">رستوران‌گردی و تیست</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            گزارش و ویدیوهای طنز و جذاب از رستوران‌ها و غذاهای پرحجم در تهران و شهرستان‌ها.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>1.4M</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>4.2%</span>
+          </div>
+          <a href="https://instagram.com/milad_kooh" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@milad_kooh</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="آشپزی و رسپی">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=cook_mag" alt="پگاه (آشپزی با پگاه)" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=cook.mag'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">پگاه (آشپزی با پگاه)</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">آموزش آشپزی و رسپی‌های فوری</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">آشپزی و رسپی</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            مرجع آموزش آشپزی آسان، انواع فینگر فود، شیرینی و دسرهای خانگی.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>3.5M</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>5.1%</span>
+          </div>
+          <a href="https://instagram.com/cook.mag" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@cook.mag</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="آشپزی و رسپی">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=mehrdad_chef" alt="مهرداد شف (Mehrdad Chef)" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=mehrdad_chef'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">مهرداد شف (Mehrdad Chef)</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">سرآشپز بین‌المللی و آموزش حرفه‌ای</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">آشپزی و رسپی</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            آموزش اصول آشپزی اصیل ایرانی و فرنگی با متدهای روز دنیا.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>890K</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>4.7%</span>
+          </div>
+          <a href="https://instagram.com/mehrdad_chef" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@mehrdad_chef</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="رستوران‌گردی و تیست">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=amir_food" alt="امیر جابری (Amir Jaaberi)" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=amir_food_reviewer'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">امیر جابری (Amir Jaaberi)</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">نقد تخصصی رستوران و فست‌فود</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">رستوران‌گردی و تیست</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            بررسی صادقانه کیفیت غذا و خدمات رستوران‌ها و فست‌فودهای مطرح کشور.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>780K</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>3.5%</span>
+          </div>
+          <a href="https://instagram.com/amir_food_reviewer" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@amir_food_reviewer</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="کافه و قهوه">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=baristalife" alt="سام کافه و دنیای باریستا" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=baristalife_ir'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">سام کافه و دنیای باریستا</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">تخصصی قهوه، باریستا و دم‌آوری</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">کافه و قهوه</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            آموزش مهارت‌های باریستایی، شناخت انواع دانه‌های قهوه و معرفی کافه‌های شاخص.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>340K</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>6.2%</span>
+          </div>
+          <a href="https://instagram.com/baristalife_ir" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@baristalife_ir</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-800/80 py-8 bg-slate-950/60 mt-auto text-center text-xs text-slate-500">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div>پروژه مستقل معرفی فعالان وب فارسی • FoodBloggers IR</div>
+      <div class="flex items-center gap-4">
+        <a href="https://irblogger.github.io/" target="_blank" class="hover:text-slate-300 transition">IRBlogger Hub</a>
+        <a href="https://github.com/m4tinbeigi-official/FoodBloggers.github.io" target="_blank" class="hover:text-slate-300 transition">مخزن گیت‌هاب</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const searchInput = document.getElementById('searchInput');
+    const catFilters = document.querySelectorAll('.cat-filter');
+    const cards = document.querySelectorAll('.blogger-card');
+    const countBadge = document.getElementById('countBadge');
+
+    let currentCat = 'all';
+
+    function filterCards() {
+      const query = searchInput.value.toLowerCase().trim();
+      let visible = 0;
+
+      cards.forEach(card => {
+        const text = card.textContent.toLowerCase();
+        const cat = card.getAttribute('data-category');
+        const matchQuery = text.includes(query);
+        const matchCat = (currentCat === 'all' || cat === currentCat);
+
+        if (matchQuery && matchCat) {
+          card.style.display = 'flex';
+          visible++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      countBadge.textContent = `${visible} نفر نمایش داده شده`;
+    }
+
+    searchInput.addEventListener('input', filterCards);
+
+    catFilters.forEach(btn => {
+      btn.addEventListener('click', () => {
+        catFilters.forEach(b => {
+          b.classList.remove('bg-sky-500', 'text-slate-950');
+          b.classList.add('bg-slate-800', 'text-slate-300');
+        });
+        btn.classList.add('bg-sky-500', 'text-slate-950');
+        btn.classList.remove('bg-slate-800', 'text-slate-300');
+        currentCat = btn.getAttribute('data-cat');
+        filterCards();
+      });
+    });
+  </script>
+</body>
+</html>
