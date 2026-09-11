@@ -1,0 +1,50 @@
+[
+  {
+    "name": "مستر تیستر (حمید سپیدنام)",
+    "handle": "mr.taster",
+    "category": "رستوران‌گردی و تیست",
+    "role": "تیستر بین‌المللی غذا",
+    "bio": "معرفی رستوران‌ها و غذاهای اصیل در ایران و سراسر جهان.",
+    "avatar": "avatars/mr.taster.jpg"
+  },
+  {
+    "name": "میلاد کلانتری (کامیران)",
+    "handle": "milad_kooh",
+    "category": "رستوران‌گردی و تیست",
+    "role": "گزارشگر غذای خیابانی",
+    "bio": "گزارش و ویدیوهای جذاب از رستوران‌ها و غذاهای پرحجم در ایران.",
+    "avatar": "avatars/milad_kooh.jpg"
+  },
+  {
+    "name": "پگاه (آشپزی با پگاه)",
+    "handle": "cook.mag",
+    "category": "آموزش آشپزی و رسپی",
+    "role": "مدرس آشپزی",
+    "bio": "مرجع آموزش آشپزی آسان، انواع فینگر فود، شیرینی و دسرهای خانگی.",
+    "avatar": "avatars/cook.mag.jpg"
+  },
+  {
+    "name": "مهرداد شف (Mehrdad Chef)",
+    "handle": "mehrdad_chef",
+    "category": "آموزش آشپزی",
+    "role": "سرآشپز بین‌المللی",
+    "bio": "سرآشپز بین‌المللی و مدرس اصول آشپزی اصیل ایرانی و ملل.",
+    "avatar": "avatars/mehrdad_chef.jpg"
+  },
+  {
+    "name": "امیر جابری (Amir Jaaberi)",
+    "handle": "amir_food_reviewer",
+    "category": "نقد رستوران",
+    "role": "منتقد غذا",
+    "bio": "بررسی صادقانه کیفیت غذا و خدمات رستوران‌ها و فست‌فودهای کشور.",
+    "avatar": "avatars/amir_food_reviewer.jpg"
+  },
+  {
+    "name": "شف رنجبر (Chef Ranjbar)",
+    "handle": "chef_ranjbar",
+    "category": "قنادی و کباب سنتی",
+    "role": "سرآشپز و مدرس",
+    "bio": "آموزش فنون قنادی حرفه‌ای، کباب‌های اصیل و تخته‌کاری سنتی.",
+    "avatar": "avatars/chef_ranjbar.jpg"
+  }
+]
